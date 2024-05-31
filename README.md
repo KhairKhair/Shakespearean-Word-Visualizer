@@ -18,9 +18,11 @@ This project is a tool designed to visualize the distribution of words in Shakes
 2. pip install -r requirements.txt
 
 ## Usage - trainer (processes csv file and learns embedding using pytorch then visualizes data using dash)
+# note - requires shakespeare_plays.csv to be in same directory as trainer.ipynb
 1. run trainer.ipynb
 
 ## Usage - visualizer (uses pre-learned embedding to visualize word-space using plotly and dash)
+# note - requires comedy_embeddings.pt, tragedy_embeddings.pt, history_embeddings.pt, common_words.npy, all_words.npy to be in same directory as visualizer.py
 1. run visualizer.py
 
 
