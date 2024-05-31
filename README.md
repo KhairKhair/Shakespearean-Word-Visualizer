@@ -1,5 +1,11 @@
 # Shakespearean Word Visualizer
 
+<img width="1680" alt="image" src="https://github.com/KhairKhair/Shakespearean-Word-Visualizer/assets/135009781/0aa4a729-65a9-4c04-82be-6504f77a1076">
+
+
+
+
+
 ## Description
 This project is a tool designed to visualize the distribution of words in Shakespeare's plays across different genres: Comedy, Tragedy, and History. It leverages Natural Language Processing (NLP) techniques to learn separate word embeddings for each genre using the Skip-gram model. The project utilizes Python libraries such as Pandas, PyTorch, Plotly, and Dash to process the text data and create interactive visualizations.
 
